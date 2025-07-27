@@ -135,7 +135,11 @@ Together, these levers help ARISE scale through community and open-source exposu
 ## 6. References / Inspiration
 
 - **Tools & Tech:**  
-  Whisper, Vosk, Mistral, Ollama, LangChain
+  - Whisper
+  - Vosk
+  - Mistral
+  - Ollama
+  - LangChain
 
 - **Cultural Inspiration:**  
   - Iron Man’s Jarvis  
