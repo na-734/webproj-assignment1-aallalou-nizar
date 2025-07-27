@@ -37,10 +37,19 @@ ARISE is a fully local, customizable AI voice assistant designed for power users
 ### 2.3 Leverage (Internal + External)
 
 **Internal Leverage (systems, tools, platforms, AI, SEO, operations, partnerships):**  
-
+- Modular plugin architecture  
+- Whisper, Vosk (STT); Mistral/Ollama (LLMs); LangChain (task chaining)  
+- GitHub-first community contributions  
+- Plugin manager, CLI + keyboard toggle support  
+- Setup assistant with logs and voice debugger
 
 **External Leverage (customer urgency/motivation, emotional stakes):**  
+- Users are increasingly distrustful of Big Tech surveillance  
+- Privacy laws (e.g., GDPR) raise awareness of cloud risks  
+- Emotional drive to "build your own Jarvis" (inspired by Iron Man, Star Trek)  
+- Reddit and GitHub trends show rising interest in self-hosted voice tools
 
+Together, these levers help ARISE scale through community and open-source exposure, convert users with emotional and practical urgency, and outperform cloud services by giving users exactly what they demand: performance, privacy, and control.
 
 ---
 
