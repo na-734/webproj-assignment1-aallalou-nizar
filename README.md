@@ -65,6 +65,16 @@ Together, these levers help ARISE scale through community and open-source exposu
 - **Where They Research / Hang Out Online:** Reddit (/r/selfhosted, /r/privacy), GitHub, Hacker News  
 - **How We Win Their Trust:** Transparent open-source code, great documentation, CLI-focused onboarding, strong community
 
+### Persona 2
+- **Name / Age / Background:** Priya T., 29, cybersecurity analyst at a fintech startup
+- **Occupation / Income:** $130K+
+- **Pain Points / Fears:** Cannot use cloud tools on work laptop due to compliance; needs a private and secure solution
+- **Desired Outcomes:** Use voice to speed up workflows and multitask securely in a locked-down environment
+- **Trigger to Act Now:** Sees that ARISE runs offline and is open source  
+- **Objections / Frictions:** Needs to ensure it doesn’t violate corporate security policy
+- **Where They Research / Hang Out Online:** Dev.to, GitHub, Mastodon, InfoSec forums  
+- **How We Win Their Trust:** Offer security-focused documentation, show that ARISE runs air-gapped, promote testimonials from other InfoSec pros
+
 ---
 
 ## 4. Influence & Brand Strategy
