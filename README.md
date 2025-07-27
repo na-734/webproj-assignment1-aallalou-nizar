@@ -9,16 +9,16 @@ ARISE is a fully local, customizable AI voice assistant designed for power users
 
 ### 2.1 Value Proposition
 - **Problem We Solve:**  
-
+ Cloud-based voice assistants are invasive, limited in customization, and unsuitable for privacy-conscious or power users.  
 
 - **For Whom:**  
-  
+ Developers, cybersecurity professionals, open-source enthusiasts, and privacy-focused users who want total control over their digital environment.  
 
 - **Primary Benefit / Outcome:**  
- 
+ A local-first, customizable voice assistant that lets you control your desktop and workflows entirely offline—with high performance and no data leakage.  
 
 - **One-Sentence Value Proposition:**  
-
+ “We give power users a private, voice-powered command center—run entirely on their own hardware, without touching the cloud.”
 
 ---
 
