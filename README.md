@@ -147,7 +147,9 @@ Together, these levers help ARISE scale through community and open-source exposu
   - Reddit communities like /r/selfhosted and /r/privacy  
 
 - **Ethos:**  
-  Local-first, user-controlled AI, open-source automation
+  - Local-first
+  - User-controlled AI
+  - Open-source automation
 
 - **Articles & Guides:**  
   - [Building a Private AI Assistant with Local LLMs (Whiteprompt)](https://blog.whiteprompt.com/building-a-private-ai-assistant-with-local-llms-a-practical-guide-1725647901d3)  
